@@ -4,4 +4,4 @@
 
 ![alt text](image.jpg) ใส่ syntaxวงเล็บเหลี่ยม alt tex คือ ส่วนสำคัญของรูปที่อยู่ในอินเทอร์เน็ต สร้างเว็บไซต์ที่มีรูปในอินเทอร์เน็ต คำอธิบายของรูปภาพเราเพื่อ ให้โปรแกรมอ่าน 
 # Grading
-![grading image](image.jpg)
+![grading image](Grading.jpg)
